@@ -10,7 +10,7 @@
     height: 100vh;
     display: flex;
     justify-content: space-between;
-    background-image: url("/Ejercicio 5/clima2.jpg");
+    background-image: url("clima2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
